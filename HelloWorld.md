@@ -1,6 +1,6 @@
 #
 #
-##  This is a marrdown file
+##  This is a markdown file
 #
 #
 #
